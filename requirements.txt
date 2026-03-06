@@ -1,0 +1,10 @@
+streamlit
+supabase
+razorpay
+pandas
+numpy
+reportlab
+anthropic
+plotly
+openpyxl
+bcrypt
